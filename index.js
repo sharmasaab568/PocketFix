@@ -3,9 +3,9 @@
  */
 
 import { AppRegistry } from 'react-native';
-import App from './App';
 import { name as appName } from './app.json';
-import Shop from './Screen/Shop';
+
+import Dashboard from './Screen/Dashboard';
+import App from './App';
 import LoginPage from './Screen/LoginPage';
-import ResgisterShop from './Screen/shopkeeper/RegisterShop'
-AppRegistry.registerComponent(appName, () => ResgisterShop);
+AppRegistry.registerComponent(appName, () => LoginPage);

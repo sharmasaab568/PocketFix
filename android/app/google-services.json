@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "713027609168",
+    "project_id": "pocketfix",
+    "storage_bucket": "pocketfix.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713027609168:android:b77e49e16104f0b7f86755",
+        "android_client_info": {
+          "package_name": "com.pocketfix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713027609168-gji9d8hv295oeqrfvs4gv03brk20u5dk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pocketfix",
+            "certificate_hash": "28e45bbd9b549332cd88766256f27d54830fdddd"
+          }
+        },
+        {
+          "client_id": "713027609168-m9ng6j12j6cmilvchn5cdekp4vt8ngki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pocketfix",
+            "certificate_hash": "22183b50636a9724d69e04cc443dfecc4b2f3f0a"
+          }
+        },
+        {
+          "client_id": "713027609168-9cbc3k1njafput474trts53a0mg85sl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjTjzZAN9F8jzuEiGXwOcZtxezepFS-wE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713027609168-9cbc3k1njafput474trts53a0mg85sl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

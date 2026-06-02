@@ -14,4 +14,7 @@ gem 'bigdecimal'
 gem 'logger'
 gem 'benchmark'
 gem 'mutex_m'
+<<<<<<< HEAD
 gem 'nkf'
+=======
+>>>>>>> 67c979550604c2f0f425c7575e23afe5a7b467f4

@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+<<<<<<< HEAD
 import { View, Text, TextInput, TouchableOpacity, Dimensions, Alert } from "react-native";
 import LinearGradient from 'react-native-linear-gradient';
 import firestore from '@react-native-firebase/firestore';
@@ -7,6 +8,16 @@ export default function Register({navigation}) {
  const saveData  = async () => {
   try{
     await firestore().collection("Shopkeepers").add({
+=======
+import { View, Text, TextInput, TouchableOpacity,Dimensions, Alert } from "react-native";
+import LinearGradient from 'react-native-linear-gradient';
+import { Firestore } from "@react-native-firebase/firestore";
+const { width} = Dimensions.get('window');
+export default function Register({navigation}) {
+ const saveData  = async () => {
+  try{
+    await Firestore().collection("Shopkeepers").add({
+>>>>>>> 67c979550604c2f0f425c7575e23afe5a7b467f4
       name : name,
       gender : gender,
       locality : locality,

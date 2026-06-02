@@ -7,13 +7,20 @@
   "client": [
     {
       "client_info": {
+<<<<<<< HEAD
         "mobilesdk_app_id": "1:713027609168:android:b77e49e16104f0b7f86755",
         "android_client_info": {
           "package_name": "com.pocketfix"
+=======
+        "mobilesdk_app_id": "1:713027609168:android:c3a3578d89dab138f86755",
+        "android_client_info": {
+          "package_name": "com.pocketfixx"
+>>>>>>> 67c979550604c2f0f425c7575e23afe5a7b467f4
         }
       },
       "oauth_client": [
         {
+<<<<<<< HEAD
           "client_id": "713027609168-gji9d8hv295oeqrfvs4gv03brk20u5dk.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
@@ -30,6 +37,8 @@
           }
         },
         {
+=======
+>>>>>>> 67c979550604c2f0f425c7575e23afe5a7b467f4
           "client_id": "713027609168-9cbc3k1njafput474trts53a0mg85sl4.apps.googleusercontent.com",
           "client_type": 3
         }
